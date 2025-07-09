@@ -1,0 +1,22 @@
+
+{
+  "name": "smart-scheduler-ui",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10",
+    "tailwindcss": "^3.4.3",
+    "postcss": "^8.4.35",
+    "autoprefixer": "^10.4.17",
+    "@vitejs/plugin-react": "^4.2.1"
+  }
+}
